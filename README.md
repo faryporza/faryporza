@@ -4,7 +4,7 @@ Here’s a more polished version of your README that enhances readability, organ
 
 # 👋 Hi, I'm Thanakit Chuchoed
 
-### Computer Science | University of Phayao | Class of 2006
+### Computer Science | University of Phayao | 66
 
 - 📧 **Contact:** [tanakit200663@gmail.com](mailto:tanakit200663@gmail.com)
 - 🧠 **Currently Learning:** Web App Development, Node.js
