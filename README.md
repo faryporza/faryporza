@@ -2,9 +2,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =========================================================================================================================================
 
 CS UP
+2006
 -----
 
-Study in University of Phayao 2006
+Study in University of Phayao 
+
 
 * ✉️  You can contact me at [tanakit200663@gmail.com](mailto:tanakit200663@gmail.com)
 * 🧠  I'm learning WebApp, Node.js
