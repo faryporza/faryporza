@@ -1,4 +1,3 @@
-Here’s a more polished version of your README that enhances readability, organizes your skills and social links better, and provides a cleaner design for GitHub badges and stats.
 
 ---
 
