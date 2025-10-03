@@ -1,22 +1,21 @@
-# 👋 Hi, I'm Thanakit Chuchoed  
-
-🎓 **Computer Science Student @ University of Phayao (66)**  
-💻 Passionate about **Fullstack Development | AI & Computer Vision | Cloud**  
-🚀 Exploring modern stacks like **React, Vue, Node.js, Golang, Python, and Flutter**  
+# 👋 Hi, I'm **Thanakit Chuchoed**  
+🎓 Computer Science Student @ University of Phayao (66)  
+💻 **Fullstack & AI Engineer** | Web • Cloud • Computer Vision  
+🚀 Turning Realtime & AI Ideas into Production-Ready Systems
 
 ---
 
 ## 🧑‍💻 About Me
-- 📚 Currently focusing on **Web App Development, Realtime Systems, and AI Projects**  
-- 👨‍💻 Experience in **freelance projects** (POS, Food Ordering, Queue Management, AI-powered apps)  
+- 📚 Currently focusing on **Web App Development**, **Realtime Systems**, and **AI Projects**  
+- 👨‍💻 Experienced in **freelance projects**: POS, Food Ordering, Queue Management, AI-powered apps  
 - 🌱 Always learning & building side-projects → check out my repos!  
-- 🎯 Goal: Become a **Fullstack + AI Engineer** and contribute to impactful projects  
+- 🎯 Goal: Become a **Fullstack + AI Engineer** and contribute to impactful products
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🔹 Programming Languages
+### 🔸 Programming Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
@@ -28,7 +27,9 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
 </p>
 
-### 🔹 Frameworks & Libraries
+---
+
+### 🔸 Frameworks & Libraries
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" />
@@ -40,7 +41,9 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
 </p>
 
-### 🔹 Databases & Cloud
+---
+
+### 🔸 Databases & Cloud
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
@@ -49,11 +52,33 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
 </p>
 
-### 🧪 Testing & Quality
+---
+
+### 🧪 Testing & QA Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jest-colored.svg" width="36" height="36" alt="Jest" />
   <img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="Playwright" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jest-colored.svg" width="36" height="36" alt="Jest" />
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="36" height="36" alt="Postman" />
+</p>
+
+---
+
+### 🤖 AI & Machine Learning
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="36" height="36" alt="OpenCV" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="36" height="36" alt="TensorFlow" />
+</p>
+
+---
+
+### 🧰 Tools & Others
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" />
+  <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="36" height="36" alt="VS Code" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="36" height="36" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" />
+  <img src="https://seeklogo.com/images/J/jira-logo-FD39F795A7-seeklogo.com.png" width="36" height="36" alt="Jira" />
 </p>
 
 ---
@@ -61,11 +86,19 @@
 ## 📌 Featured Projects
 🔗 *Click repo names to view more*  
 
-- [🚗 Vehicle Detection Demo](https://github.com/faryporza/vehicle-detection-demo) → YOLO + Python + DB logging  
-- [🍔 Food Ordering System](https://github.com/faryporza/food_ordering) → Fullstack ordering app with realtime Socket.IO  
-- [📸 Face Attendance System](https://github.com/faryporza/face-attendance-system) → AI + Web integration  
-- [📱 Flutter UI Ecommerce](https://github.com/faryporza/flutter-ui-ecommerce) → Mobile app prototype  
-- [📊 AI Food Recommendation](https://github.com/faryporza/ai-food-recommendation) → ML-based recommendation engine  
+- [🚗 **Vehicle Detection Demo**](https://github.com/faryporza/vehicle-detection-demo) → YOLO + Python + DB logging  
+- [🍔 **Food Ordering System**](https://github.com/faryporza/food_ordering) → Fullstack ordering app with realtime Socket.IO  
+- [📸 **Face Attendance System**](https://github.com/faryporza/face-attendance-system) → AI + Web integration  
+- [📱 **Flutter UI Ecommerce**](https://github.com/faryporza/flutter-ui-ecommerce) → Mobile app prototype  
+- [📊 **AI Food Recommendation**](https://github.com/faryporza/ai-food-recommendation) → ML-based recommendation engine
+
+---
+
+## 🏆 Achievements & Certifications
+- 🥇 Microsoft Learn Student Ambassador Program *(202x)*  
+- 🧠 Completed Google Cloud Skill Boosts — AI & ML Track  
+- 🚀 Hackathon Finalist — AI Vehicle Detection Project (University level)  
+- 📜 [📄 **My Resume**](https://your-resume-link.com) (PDF)
 
 ---
 
