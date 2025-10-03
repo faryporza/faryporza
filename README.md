@@ -49,6 +49,13 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
 </p>
 
+### 🧪 Testing & Quality
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jest-colored.svg" width="36" height="36" alt="Jest" />
+  <img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="Playwright" />
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="36" height="36" alt="Postman" />
+</p>
+
 ---
 
 ## 📌 Featured Projects
