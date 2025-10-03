@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Thanakit Chuchoed**  
+# 👋 Hi, I'm **Thanakit Chuchoed**   
 🎓 Computer Science Student @ University of Phayao (66)  
 💻 **Fullstack & AI Engineer** | Web • Cloud • Computer Vision  
 🚀 Turning Realtime & AI Ideas into Production-Ready Systems
