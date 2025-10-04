@@ -94,14 +94,6 @@
 
 ---
 
-## 🏆 Achievements & Certifications
-- 🥇 Microsoft Learn Student Ambassador Program *(202x)*  
-- 🧠 Completed Google Cloud Skill Boosts — AI & ML Track  
-- 🚀 Hackathon Finalist — AI Vehicle Detection Project (University level)  
-- 📜 [📄 **My Resume**](https://your-resume-link.com) (PDF)
-
----
-
 ## 🌐 Socials
 <p align="left">
   <a href="https://www.facebook.com/profile.php?id=100018481330637" target="_blank" rel="noreferrer">
