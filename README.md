@@ -5,14 +5,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-- 📚 Currently focusing on **Web App Development**, **Realtime Systems**, and **AI Projects**  
-- 👨‍💻 Experienced in **freelance projects**: POS, Food Ordering, Queue Management, AI-powered apps  
-- 🌱 Always learning & building side-projects → check out my repos!  
-- 🎯 Goal: Become a **Fullstack + AI Engineer** and contribute to impactful products
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🔸 Programming Languages
