@@ -33,6 +33,8 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="36" height="36" alt="Spring Boot" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gin/gin-original.svg" width="36" height="36" alt="Gin" />
+
 </p>
 
 ---
@@ -74,6 +76,7 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="36" height="36" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" />
   <img src="https://seeklogo.com/images/J/jira-logo-FD39F795A7-seeklogo.com.png" width="36" height="36" alt="Jira" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="36" height="36" alt="Ubuntu" />
 </p>
 
 ---
