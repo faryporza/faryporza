@@ -1,21 +1,21 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=FF7AE5&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B,+I'm+Thanakit+Chuchoed;Fullstack+%26+AI+Engineer;Crafting+Anime+Style+Tech+Experiences;Bringing+Ideas+to+Life+with+Code+%F0%9F%8C%88" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=FF7AE5&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B,+I'm+Thanakit+Chuchoed;Fullstack+%26+AI+Engineer;Crafting+Creative+Tech+Experiences;Bringing+Ideas+to+Life+with+Code+%F0%9F%8C%88" />
 </div>
 
 ---
 
-<!-- Anime Profile -->
+<!-- Profile -->
 <p align="center">
   <img src="https://media.tenor.com/2roX3uxz_68AAAAC/anime-smile.gif" width="180" /><br/>
   🎓 CS Student @ University of Phayao (66)<br/>
   💻 Fullstack Developer • AI Engineer • Cloud Enthusiast <br/>
-  ✨ Passionate about Anime-style UI • Realtime Systems • AI Magic ✨
+  ✨ Passionate about UI/UX • Realtime Systems • AI Innovation ✨
 </p>
 
 ---
 
-## 🌸 Tech Stack — *Cute Anime Edition*
+## Tech Stack 
 
 ### 🔥 Programming Languages
 <p align="left">
@@ -46,13 +46,13 @@
 
 ---
 
-## 🍱 Featured Projects (Anime-Themed)
-✨ *Projects I’m proud to showcase — now with anime vibes!* ✨
+## 🍱 Featured Projects
+✨ *Projects I’m proud to showcase* ✨
 
 - 🚗 **Vehicle Detection Demo** — YOLO + Python + DB logging  
 - 🍔 **Food Ordering System** — Realtime Socket.IO + Fullstack  
 - 📸 **Face Attendance System** — AI + Web  
-- 📱 **Flutter UI Ecommerce** — Cute anime-like mobile UI  
+- 📱 **Flutter UI Ecommerce** — Mobile UI Prototype  
 - 🍜 **AI Food Recommendation** — ML recommendation engine  
 
 ---
@@ -75,7 +75,7 @@
 
 ---
 
-## 📊 GitHub Stats — *Anime UI Style*
+## 📊 GitHub Stats
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=faryporza&show_icons=true&theme=tokyonight&title_color=ff79c6&icon_color=ff79c6" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faryporza&layout=compact&theme=tokyonight&title_color=ff79c6" />
@@ -85,5 +85,5 @@
 
 <p align="center">
   <img src="https://media.tenor.com/sdWcFQp22FYAAAAC/anime-blush-smile.gif" width="150"><br/>
-  🌸 Thanks for visiting — Let's build something magical together! 🌸
+  🌸 Thanks for visiting — Let's build something amazing together! 🌸
 </p>
