@@ -1,121 +1,89 @@
-# 👋 Hi, I'm **Thanakit Chuchoed**
-🎓 Computer Science Student @ University of Phayao (66)  
-💻 **Fullstack & AI Engineer** | Web • Cloud • Computer Vision  
-🚀 Turning Realtime & AI Ideas into Production-Ready Systems
+<!-- Banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=FF7AE5&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B,+I'm+Thanakit+Chuchoed;Fullstack+%26+AI+Engineer;Crafting+Anime+Style+Tech+Experiences;Bringing+Ideas+to+Life+with+Code+%F0%9F%8C%88" />
+</div>
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🔸 Programming Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Golang" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
+<!-- Anime Profile -->
+<p align="center">
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/anime-smile.gif" width="180" /><br/>
+  🎓 CS Student @ University of Phayao (66)<br/>
+  💻 Fullstack Developer • AI Engineer • Cloud Enthusiast <br/>
+  ✨ Passionate about Anime-style UI • Realtime Systems • AI Magic ✨
 </p>
 
 ---
 
-### 🔸 Frameworks & Libraries
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express.js" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="36" height="36" alt="Spring Boot" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gin/gin-original.svg" width="36" height="36" alt="Gin" />
+## 🌸 Tech Stack — *Cute Anime Edition*
 
+### 🔥 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,go,dart,html,css,java" height="45" />
 </p>
 
 ---
 
-### 🔸 Databases & Cloud
+### ⚡ Frameworks & Libraries
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36" height="36" alt="Azure" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nodejs,express,vite,flutter,tailwind,spring,git" height="45" />
 </p>
 
 ---
 
-### 🧪 Testing & QA Tools
+### ☁️ Databases & Cloud
 <p align="left">
-  <img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="Playwright" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="36" height="36" alt="Jest" />
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="36" height="36" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,docker,azure,gcp" height="45" />
 </p>
 
 ---
 
 ### 🤖 AI & Machine Learning
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="36" height="36" alt="OpenCV" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="36" height="36" alt="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="45" />
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45" />
 </p>
 
 ---
 
-### 🧰 Tools & Others
+## 🍱 Featured Projects (Anime-Themed)
+✨ *Projects I’m proud to showcase — now with anime vibes!* ✨
+
+- 🚗 **Vehicle Detection Demo** — YOLO + Python + DB logging  
+- 🍔 **Food Ordering System** — Realtime Socket.IO + Fullstack  
+- 📸 **Face Attendance System** — AI + Web  
+- 📱 **Flutter UI Ecommerce** — Cute anime-like mobile UI  
+- 🍜 **AI Food Recommendation** — ML recommendation engine  
+
+---
+
+## 🌐 Connect With Me
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" />
-  <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="36" height="36" alt="VS Code" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="36" height="36" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" />
-  <img src="https://seeklogo.com/images/J/jira-logo-FD39F795A7-seeklogo.com.png" width="36" height="36" alt="Jira" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="36" height="36" alt="Ubuntu" />
-</p>
-
----
-
-## 📌 Featured Projects
-🔗 *Click repo names to view more*  
-
-- [🚗 **Vehicle Detection Demo**](https://github.com/faryporza/vehicle-detection-demo) → YOLO + Python + DB logging  
-- [🍔 **Food Ordering System**](https://github.com/faryporza/food_ordering) → Fullstack ordering app with realtime Socket.IO  
-- [📸 **Face Attendance System**](https://github.com/faryporza/face-attendance-system) → AI + Web integration  
-- [📱 **Flutter UI Ecommerce**](https://github.com/faryporza/flutter-ui-ecommerce) → Mobile app prototype  
-- [📊 **AI Food Recommendation**](https://github.com/faryporza/ai-food-recommendation) → ML-based recommendation engine
-
----
-
-## 🌐 Socials
-<p align="left">
-  <a href="https://www.facebook.com/profile.php?id=100018481330637" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" />
+  <a href="https://www.facebook.com/profile.php?id=100018481330637">
+    <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
   </a>
-  <a href="https://github.com/faryporza" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+  <a href="https://github.com/faryporza">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
-  <a href="http://www.instagram.com/farypor" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
+  <a href="http://www.instagram.com/farypor">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
-  <a href="https://faryporza.github.io/webpage-thanakit/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/website.svg" width="32" height="32" alt="Website" />
+  <a href="https://faryporza.github.io/webpage-thanakit/">
+    <img src="https://skillicons.dev/icons?i=web" height="40"/>
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats — *Anime UI Style*
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=faryporza&show_icons=true&theme=tokyonight&title_color=ff79c6&icon_color=ff79c6" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faryporza&layout=compact&theme=tokyonight&title_color=ff79c6" />
+</div>
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faryporza&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faryporza&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://media.tenor.com/sdWcFQp22FYAAAAC/anime-blush-smile.gif" width="150"><br/>
+  🌸 Thanks for visiting — Let's build something magical together! 🌸
 </p>
-
----
-
-✨ *Thanks for visiting my profile — feel free to connect with me!* 🚀
