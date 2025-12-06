@@ -26,7 +26,7 @@
 
 ### ⚡ Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nodejs,express,vite,flutter,tailwind,spring,git" height="45" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,bun,vue,nodejs,express,vite,flutter,tailwind,spring,git" height="45" />
 </p>
 
 ---
