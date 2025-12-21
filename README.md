@@ -33,7 +33,7 @@
 
 ### ☁️ Databases & Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,docker,azure,gcp" height="45" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,docker,azure,gcp,k8s" height="45" />
 </p>
 
 ---
