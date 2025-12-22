@@ -9,8 +9,8 @@
 <p align="center">
   <img src="https://media.tenor.com/2roX3uxz_68AAAAC/anime-smile.gif" width="180" /><br/>
   🎓 CS Student @ University of Phayao (66)<br/>
-  💻 Fullstack Developer • AI Engineer • Cloud Enthusiast <br/>
-  ✨ Passionate about UI/UX • Realtime Systems • AI Innovation ✨
+  💻 Fullstack Developer • Cloud Enthusiast <br/>
+   Passionate about Cloud • Web Dev 
 </p>
 
 ---
