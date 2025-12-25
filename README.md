@@ -19,14 +19,14 @@
 
 ### 🔥 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,go,dart,html,css,java" height="45" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,go,dart,html,css" height="45" />
 </p>
 
 ---
 
 ### ⚡ Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,bun,vue,nodejs,express,vite,flutter,tailwind,spring,git,prisma" height="45" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,bun,vue,nodejs,express,vite,flutter,tailwind,git,prisma" height="45" />
 </p>
 
 ---
