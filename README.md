@@ -62,7 +62,7 @@
   <a href="https://www.facebook.com/profile.php?id=100018481330637">
     <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
   </a>
-  <a href="https://github.com/faryporza">
+  <a href="https://portfolio-farypor.vercel.app/">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
   <a href="http://www.instagram.com/farypor">
