@@ -19,7 +19,7 @@
 
 ### 🔥 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,go,dart,html,css" height="45" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,go,dart" height="45" />
 </p>
 
 ---
