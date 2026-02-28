@@ -31,9 +31,9 @@
 
 ---
 
-### ☁️ Databases & Cloud
+### ☁️ Databases, Tools & Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,docker,azure,gcp,k8s,gitlab" height="45" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,docker,azure,gcp,k8s,gitlab,cloudflare" height="45" />
 </p>
 
 ---
