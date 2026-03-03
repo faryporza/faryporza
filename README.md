@@ -13,25 +13,43 @@
 
 ---
 
-## Tech Stack 
+## Tech Stack
 
-<div align="center">
-  <h3>Programming Languages</h3>
+### Programming Languages
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,python,php,go,dart" height="45" alt="Programming Languages" />
-  <br/>
+</p>
 
-  <h3>Frameworks & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,bun,vue,nodejs,express,vite,flutter,tailwind,git,prisma" height="45" alt="Frameworks and Libraries" />
-  <br/>
+### Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,vite,threejs" height="45" alt="Frontend Frameworks" />
+</p>
 
-  <h3>Databases, Tools & Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,docker,azure,gcp,k8s,gitlab,cloudflare" height="45" alt="Databases, Tools, and Cloud" />
-  <br/>
+### Backend & API
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,bun,fastapi,prisma" height="45" alt="Backend Frameworks" />
+</p>
 
-  <h3>AI & Machine Learning</h3>
+### Mobile Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="Mobile Frameworks" />
+</p>
+
+### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" height="45" alt="Databases" />
+</p>
+
+### Cloud, DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=gcp,azure,docker,k8s,cloudflare,git,gitlab" height="45" alt="Cloud and DevOps Tools" />
+</p>
+
+### AI & Machine Learning
+<p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="45" alt="AI Frameworks" />
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="45" alt="OpenCV" />
-</div>
+</p>
 
 ---
 
