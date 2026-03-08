@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=FF7AE5&center=true&vCenter=true&width=850&lines=Hi,+I'm+Thanakit+Chuchoed;Fullstack+%26+AI+Engineer;Crafting+Creative+Tech+Experiences;Bringing+Ideas+to+Life+with+Code" alt="Typing Banner" />
 </div>
 
