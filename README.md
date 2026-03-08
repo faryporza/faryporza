@@ -33,6 +33,7 @@
 ### Mobile Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="Mobile Frameworks" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" height="45" alt="Xcode" />
 </p>
 
 ### Databases
