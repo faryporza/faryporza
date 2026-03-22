@@ -27,7 +27,7 @@
 
 ### Backend & API
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,bun,fastapi,prisma" height="45" alt="Backend Frameworks" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,bun,fastapi,prisma,redis" height="45" alt="Backend Frameworks" />
 </p>
 
 ### Mobile Development
