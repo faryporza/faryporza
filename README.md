@@ -91,5 +91,6 @@
 
 <div align="center">
   <img src="https://media.tenor.com/sdWcFQp22FYAAAAC/anime-blush-smile.gif" width="120" alt="Thanks for visiting" /><br/><br/>
-  <strong>Thanks for visiting — Let's build something amazing together!</strong>
+  <strong>Thanks for visiting — Let's build something amazing together!</strong><br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=faryporza&color=green" alt="Profile Views" />
 </div>
