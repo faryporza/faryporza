@@ -3,12 +3,6 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6F42C1,50:B15CE8,100:FF7AE5&amp;height=220&amp;section=header&amp;text=Thanakit%20Chuchoed&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Developer&amp;descSize=20&amp;descAlignY=60&amp;animation=fadeIn" alt="Thanakit Chuchoed — Developer" />
 
-  <a href="https://github.com/faryporza">
-    <img src="https://github.com/faryporza.png?size=160" width="112" alt="Thanakit's GitHub avatar" />
-  </a>
-
-  <br />
-
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=23&amp;duration=2800&amp;pause=900&amp;color=FF7AE5&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Hi%2C+I%27m+Thanakit+Chuchoed;Developer" alt="Animated introduction: Thanakit Chuchoed, Developer" />
 
   <br />
