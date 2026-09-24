@@ -1,96 +1,63 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=FF7AE5&center=true&vCenter=true&width=850&lines=Hi,+I'm+Thanakit+Chuchoed;Fullstack+%26+AI+Engineer;Crafting+Creative+Tech+Experiences;Bringing+Ideas+to+Life+with+Code" alt="Typing Banner" />
-</div> 
-
-<br/>
+<!-- Place this file at the root of the public faryporza/faryporza repository. -->
 
 <div align="center">
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/anime-smile.gif" width="150" alt="Profile Animation" /><br/><br/>
-  <strong>CS Student @ University of Phayao (66)</strong>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6F42C1,50:B15CE8,100:FF7AE5&amp;height=220&amp;section=header&amp;text=Thanakit%20Chuchoed&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Developer&amp;descSize=20&amp;descAlignY=60&amp;animation=fadeIn" alt="Thanakit Chuchoed — Developer" />
+
+  <a href="https://github.com/faryporza">
+    <img src="https://github.com/faryporza.png?size=160" width="112" alt="Thanakit's GitHub avatar" />
+  </a>
+
+  <br />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=23&amp;duration=2800&amp;pause=900&amp;color=FF7AE5&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Hi%2C+I%27m+Thanakit+Chuchoed;Developer" alt="Animated introduction: Thanakit Chuchoed, Developer" />
+
+  <br />
+
+<strong>Computer Science student · University of Phayao · 66 cohort</strong>
+
+<br /><br />
+
+<a href="https://portfolio-farypor.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6F42C1?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/faryporza"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+<a href="https://www.instagram.com/farypor"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
+<a href="https://www.facebook.com/profile.php?id=100018481330637"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" /></a>
+
 </div>
 
----
+About me
 
-## Tech Stack
+I am a Computer Science student who enjoys building practical websites and applications and learning new technologies.
 
-### Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,go,dart" height="45" alt="Programming Languages" />
-</p>
+Visit my portfolio or personal website.
 
-### Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,vite,threejs" height="45" alt="Frontend Frameworks" />
-</p>
+Tech stack
 
-### Backend & API
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,bun,fastapi,prisma,redis" height="45" alt="Backend Frameworks" />
-</p>
+Languages
 
-### Mobile Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="Mobile Frameworks" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" height="45" alt="Xcode" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,php" alt="JavaScript, TypeScript, Python, PHP" />
 
-### Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" height="45" alt="Databases" />
-</p>
+Web development
 
-### Cloud, DevOps & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=gcp,azure,docker,k8s,cloudflare,git,gitlab" height="45" alt="Cloud and DevOps Tools" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express" alt="React, Node.js, Express" />
 
-### AI & Machine Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="45" alt="AI Frameworks" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="45" alt="OpenCV" />
-</p>
+Database and tools
 
----
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,docker" alt="MySQL, MongoDB, Git, Docker" />
 
-## Featured Projects
-*Projects I’m proud to showcase*
+Contributions
 
-- **Vehicle Detection Demo** — YOLO, Python, DB logging
-- **Food Ordering System** — Realtime Socket.IO, Fullstack
-- **Face Attendance System** — AI, Web
-- **Flutter UI Ecommerce** — Mobile UI Prototype
-- **AI Food Recommendation** — ML recommendation engine
-
----
-
-## Connect With Me
 <div align="center">
-  <a href="https://www.facebook.com/profile.php?id=100018481330637">
-    <img src="https://skillicons.dev/icons?i=facebook" height="40" alt="Facebook"/>
-  </a>
-  <a href="https://portfolio-farypor.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub Portfolio"/>
-  </a>
-  <a href="http://www.instagram.com/farypor">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
-  </a>
-  <a href="https://faryporza.github.io/webpage-thanakit/">
-    <img src="https://skillicons.dev/icons?i=web" height="40" alt="Website"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faryporza/faryporza/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faryporza/faryporza/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/faryporza/faryporza/output/github-snake.svg" alt="Animated snake eating Thanakit's GitHub contribution squares" />
+  </picture>
 </div>
 
----
-
-## GitHub Stats
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=faryporza&show_icons=true&theme=tokyonight&title_color=ff79c6&icon_color=ff79c6" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faryporza&layout=compact&theme=tokyonight&title_color=ff79c6" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://media.tenor.com/sdWcFQp22FYAAAAC/anime-blush-smile.gif" width="120" alt="Thanks for visiting" /><br/><br/>
-  <strong>Thanks for visiting — Let's build something amazing together!</strong><br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=faryporza&color=green" alt="Profile Views" />
+  <br />
+  <strong>Thanks for visiting. Let's build something useful.</strong>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=faryporza&amp;color=FF7AE5&amp;style=flat-square" alt="Profile views" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6F42C1,50:B15CE8,100:FF7AE5&amp;height=100&amp;section=footer" alt="Purple and pink wave footer" />
 </div>
